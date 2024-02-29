@@ -33,5 +33,12 @@ build/
 .vscode/
 #application.properties
 src/main/resources/application.properties
-src/main/resources/application.properties
+
+
+
+src/main/resources/text.txt
+
+
+
+
 application.properties
